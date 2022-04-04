@@ -1,1 +1,3 @@
-
+This project's main goal was to create a server and client parts that communicate with each other through shared memory. 
+The server compresses files using a third-party program snappy. 
+The client, in turn, wants to get a compressed version of its files. Let's take a closer look at the design
