@@ -1,1 +1,2 @@
-
+The centralized manager is responsible for adding, removing, and managing nodes and distributing client requests across them. 
+XML-RPC was used to communicate with clients/servers in this project.
